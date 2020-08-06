@@ -15,9 +15,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: 9th House
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - http://www.9thhouse.org
 
 # -----
 # Build
