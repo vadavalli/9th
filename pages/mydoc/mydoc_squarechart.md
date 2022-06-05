@@ -10,11 +10,11 @@ folder: mydoc
 
 ## About Square Chart
 
-Developed by me for personal use in 2002. SquareChart is an interactive horoscope software in the south Indian square chart style. It is interactive. Progression and transits can be super-imposed on natal chart and can be navigated easily.
+Developed by me for personal use in 2002. SquareChart is an interactive horoscope software in the south Indian square chart style. Progression and transits can be super-imposed on natal chart and can be navigated easily.
 
-It is was very useful in my study of Astrology, as I could not find any software that meets my requirements.
+It is was very useful in my study of Astrology, as I could not find any other software that met my requirements.
 
-It is somewhat ametuer, but servers the purpose. It is intended to be a prototype and I hope to develop a professional version in future.
+It is somewhat ametuer at the moment, but servers the purpose. It is intended to be a prototype and I hope to develop a professional version in future.
 
 You can download it from here: [SquareChart-5-Jun-2022.zip](downloads/SquareChart-5-Jun-2022.zip). 
 
