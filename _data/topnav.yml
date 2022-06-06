@@ -13,4 +13,4 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: SquareChart
-          url: /mydoc_introduction.html
+          url: /mydoc_squarechart.html
