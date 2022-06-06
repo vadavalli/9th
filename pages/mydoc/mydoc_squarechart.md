@@ -16,7 +16,7 @@ It is was very useful in my study of Astrology, as I could not find any other so
 
 It is somewhat ametuerish at the moment, but serves the purpose. It is intended to be a prototype and I hope to develop a professional version in future.
 
-You can download it from here: [SquareChart-6-Jun-2022.zip](downloads/SquareChart-5-Jun-2022.zip). 
+You can download it from here: [SquareChart-6-Jun-2022.zip](downloads/SquareChart-6-Jun-2022.zip). 
 
 Please contact me [vadavalli_nm@yahoo.com](mailto: vadavalli_nm@yahoo) if you face any issues or have suggestions for adding more features.
 
