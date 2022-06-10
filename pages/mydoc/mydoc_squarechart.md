@@ -16,10 +16,10 @@ It is was very useful in my study of Astrology, as I could not find any other so
 
 It is somewhat ametuerish at the moment, but serves the purpose. It is intended to be a prototype and I hope to develop a professional version in future.
 
-You can download it from here: [SquareChart-7-Jun-2022.zip](downloads/SquareChart-7-Jun-2022.zip). 
+You can download it from here: [SquareChart-10-Jun-2022.zip](downloads/SquareChart-10-Jun-2022.zip). 
 Unzip the file into any folder. Double click on SquareChart.exe file. It should launch the horoscope software.
 
-If you get a failure message saying that it cannot find JRE (Java), then download the software from this link, which includes Java: [SquareChart_JRE.zip](https://drive.google.com/file/d/1mt_m5ktDQisJp7tQMlXqJsGbxmcebFGH/view?usp=sharing).
+If you get a failure message saying that it cannot find JRE (Java), then download the software from this link, which includes Java: [SquareChart_JRE_10Jun2022.zip](https://drive.google.com/file/d/1X73wsi989zQJYZKNQB8YtMx0xtY4KxNQ/view?usp=sharing).
 
 Please contact me [vadavalli_nm@yahoo.com](mailto: vadavalli_nm@yahoo) if you face any issues or have suggestions for adding more features.
 
