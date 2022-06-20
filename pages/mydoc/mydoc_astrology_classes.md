@@ -24,4 +24,5 @@ Youtube links for the classes and PPTs to be downloaded.
 |7| 24-Apr-2022 | Mercury and Uranus | [Astro Class 7](https://youtu.be/9nb8IzFoLHo){:target="_blank"} | [Astro-class7.ppt](downloads/Astro-class7.ppt) |
 |8| 01-May-2022 | Neptune and Moon | [Astro Class 8](https://www.youtube.com/watch?v=zWdwYEaLlps){:target="_blank"} | [Astro-class8.ppt](downloads/Astro-class8.ppt) |
 |9| 12-Jun-2022 | Sun, Rahu & Ketu| [Astro Class 9](https://youtu.be/8cislmTf6Cs){:target="_blank"} | [Astro-class9.ppt](downloads/Astro-class9.ppt) |
+|10| 19-Jun-2022 | Houses| [Astro Class 10](https://www.youtube.com/watch?v=uHrsKWTBE1U){:target="_blank"} | [Astro-class10.ppt](downloads/Astro-class10.ppt) |
 {% include links.html %}
