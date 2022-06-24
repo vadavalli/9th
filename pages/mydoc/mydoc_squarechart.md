@@ -1,6 +1,6 @@
 ---
 title: SquareChart
-tags: [getting_started, troubleshooting]
+tags: []
 keywords:
 summary: "SquareChart is an interactive horoscope software in the south Indian square chart style. Most important feature is the super imposition of progressions and transits on natal chart and their movement with date change."
 sidebar: mydoc_sidebar
@@ -21,7 +21,7 @@ Unzip the file into any folder. Double click on SquareChart.exe file. It should 
 
 If you get a failure message saying that it cannot find JRE (Java), then download the software from this link, which includes Java: [SquareChart_JRE_10Jun2022.zip](https://drive.google.com/file/d/1X73wsi989zQJYZKNQB8YtMx0xtY4KxNQ/view?usp=sharing).
 
-Please contact me [vadavalli_nm@yahoo.com](mailto: vadavalli_nm@yahoo) if you face any issues or have suggestions for adding more features.
+Please contact me [9thhouse.org@gmail.com](mailto: 9thhouse.org@gmail.com) if you face any issues or have suggestions for adding more features.
 
 A sample screenshot of the software:
 

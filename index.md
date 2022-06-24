@@ -1,7 +1,7 @@
 ---
 title: "Astrology"
 keywords: homepage
-tags: [getting_started]
+tags: []
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This is an astrology website offering some lessons on the subject and a horoscope software. This is intended for a limited and known circle of people.
@@ -20,6 +20,6 @@ I was torn between the materialism of Science, which is concrete and logical, an
 
 I have studied Astrology for 30 years and developed a few insights, which I want to share. I have recently started teaching Astrology and this webiste is for sharing some material for the students. There is very little content at the moment, but I will keep adding in the coming months.
 
-I can be reached at [vadavalli_nm@yahoo.com](mailto:vadavalli_nm@yahoo.com)
+Site e-mail: [9thhouse.org@gmail.com](mailto:9thhouse.org@gmail.com)
 
 {% include links.html %}
