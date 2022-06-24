@@ -1,7 +1,6 @@
 ---
 title: "Astrology"
 keywords: homepage
-tags: []
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This is an astrology website offering some lessons on the subject and a horoscope software. This is intended for a limited and known circle of people.
