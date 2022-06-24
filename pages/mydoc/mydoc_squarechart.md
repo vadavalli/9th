@@ -1,6 +1,5 @@
 ---
 title: SquareChart
-tags: []
 keywords:
 summary: "SquareChart is an interactive horoscope software in the south Indian square chart style. Most important feature is the super imposition of progressions and transits on natal chart and their movement with date change."
 sidebar: mydoc_sidebar

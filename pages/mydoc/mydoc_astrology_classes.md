@@ -1,6 +1,5 @@
 ---
 title: Astrology Classes
-tags: []
 keywords: astrology, classes, announcements, what's new, new features
 last_updated: June 05, 2022
 summary: "Youtube links of Astrology classes and PPTs. Some of the content is personal and delivered in a lighter vein. Please use discretion while sharing."
