@@ -25,6 +25,6 @@ Youtube links for the classes and PPTs to be downloaded.
 |9| 12-Jun-2022 | Sun, Rahu & Ketu| [Astro Class 9](https://youtu.be/8cislmTf6Cs){:target="_blank"} | [Astro-class9.ppt](downloads/Astro-class9.ppt) |
 |10| 19-Jun-2022 | Houses| [Astro Class 10](https://www.youtube.com/watch?v=uHrsKWTBE1U){:target="_blank"} | [Astro-class10.ppt](downloads/Astro-class10.ppt) |
 |11| 26-Jun-2022 | Houses continued. Same PPT as previous class.| [Astro Class 11](https://www.youtube.com/watch?v=HWcUG0iieyI){:target="_blank"} | [Astro-class10.ppt](downloads/Astro-class10.ppt) |
-|12| 03-Jul-2022 | House meanings.| [Astro Class 11](https://www.youtube.com/watch?v=BUKq2K8YKyM){:target="_blank"} | [Astro-class11.ppt](downloads/Astro-class10.ppt) |
+|12| 03-Jul-2022 | House meanings.| [Astro Class 11](https://www.youtube.com/watch?v=BUKq2K8YKyM){:target="_blank"} | [Astro-class11.ppt](downloads/Astro-class11.ppt) |
 {% include links.html %}
 
