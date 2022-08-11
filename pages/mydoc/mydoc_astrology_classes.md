@@ -28,6 +28,6 @@ Youtube links for the classes and PPTs to be downloaded.
 |12| 03-Jul-2022 | House meanings.| [Astro Class 11](https://www.youtube.com/watch?v=BUKq2K8YKyM){:target="_blank"} | [Astro-class11.ppt](downloads/Astro-class11.ppt) |
 |13| 10-Jul-2022 | Aspects.| [Astro Class 12](https://youtu.be/FPK6oPubG3I){:target="_blank"} | [Astro-class12.ppt](downloads/Astro-class12.ppt) |
 |14| 24-Jul-2022 | Horoscope Analysis | [Astro Class 13](https://www.youtube.com/watch?v=MPKnjed7pVU){:target="_blank"} | [Astro-class13.ppt](downloads/Astro-class13.ppt) |
-|15| 07-Aug-2022 | Progressions | [Astro Class 14](https://youtu.be/zCEg8_8GEzE?list=PLkQmQY2fnzoYw8hfX2Re1g254Nl2slqP8){:target="_blank"} | [Astro-class13.ppt](downloads/Astro-class14.ppt) |
+|15| 07-Aug-2022 | Progressions | [Astro Class 14](https://youtu.be/zCEg8_8GEzE?list=PLkQmQY2fnzoYw8hfX2Re1g254Nl2slqP8){:target="_blank"} | [Astro-class14.ppt](downloads/Astro-class14.ppt) |
 {% include links.html %}
 
