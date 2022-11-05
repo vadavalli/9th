@@ -15,10 +15,8 @@ It has been very useful in my study of Astrology, as I could not find any other 
 
 It is somewhat ametuerish at the moment, but serves the purpose. It is intended to be a prototype and I hope to develop a professional version in future.
 
-You can download it from here: [SquareChart-Nov_5_2022.zip](downloads/SquareChart-Jul_15_2022.zip). 
+You can download it from here: [SquareChart-Nov_5_2022.zip](downloads/SquareChart-Nov_5_2022.zip). 
 Unzip the file into any folder. Double click on SquareChart.exe file. It should launch the horoscope software.
-
-If you get a failure message saying that it cannot find JRE (Java), then download the software from this link, which includes Java: [SquareChart_JRE-Jul_15_2022.zip](https://drive.google.com/file/d/1QxjdnlAyddzpv3GxGRs1m4xmuUX8DshW/view?usp=sharing).
 
 Please contact me [9thhouse.org@gmail.com](mailto: 9thhouse.org@gmail.com) if you face any issues or have suggestions for adding more features.
 
