@@ -1,0 +1,249 @@
+Girish UVNK,06-05-2010 17:05:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Abdul Kalam,15-10-1931 08:26:20,79,18,E,9,17,N,GMT+5:30,
+Mahesh Babu,09-08-1975 12:15:00,80,16,E,13,5,N,GMT+5:30,Chennai IN Asia/Kolkata,1
+Sridevi Kishore Sanath,27-04-1974 07:28:00,78,3,E,15,50,N,GMT+5:30,Visakhapatnam
+Jr NTR,20-05-1983 23:15:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Gopi Kalipureddi,05-05-1979 07:05:00,82,20,E,16,56,N,GMT+5:30,Kakinada,1
+Padmaja pappu Nagaraju garu,20-01-1969 20:30:00,79,25,E,13,38,N,GMT+5:30,Tirupati IN Asia/Kolkata,1
+Sivaram Rebbapregada,16-09-1976 12:05:00,81,6,E,16,42,N,GMT+5:30,Eluru
+Bill Clinton,19-08-1946 08:51:00,93,36,W,33,40,N,GMT-6:00,Hope AR,1
+Bhanumathi,07-09-1925 10:05:00,79,56,E,15,40,N,GMT+5:30,Doddavaram Prakasam Dt,1
+Pramod Mullangi,25-08-1979 22:51:00,78,8,E,13,8,N,GMT+5:30,Kolar,1
+Ganesh Ganti,27-08-1968 14:30:00,83,18,E,17,42,N,GMT+5:30,Visakhapatnam,1
+Sobhana konakanchi,29-01-2008 12:23:00,122,12,W,47,37,N,GMT-8:00,Seattle wa America/Los_Angeles,1
+Stephen Hawking,08-01-1942 12:00:00,1,15,W,51,45,N,GMT-5:00,
+Arnold Schwarznegger,30-07-1947 03:10:00,15,27,E,47,5,N,GMT+1:00,
+Mrs Murthy Janaki,23-09-1972 09:20:00,80,16,E,13,5,N,GMT+5:30,Chennai,1
+Balu's Mother,17-09-1949 07:10:00,79,59,E,14,27,N,GMT+5:30,Nellore,1
+Albrecht Muth,10-05-1964 19:00:00,6,57,E,50,56,N,GMT+1:00,Cologne,1
+Hillary Clinton,26-10-1947 22:30:00,87,39,W,41,51,N,GMT+5:30,
+Mark Ray,26-04-1954 19:42:20,104,59,W,39,44,N,GMT-7:00,Denver co America/Denver,1
+Rahul Gandhi,19-06-1970 05:05:00,77,14,E,28,36,N,GMT+5:30,Delhi
+Samaya,25-10-2009 11:31:00,78,29,E,17,22,N,GMT+5:30,
+Jandhyala,14-01-1951 22:32:00,81,41,E,16,26,N,GMT+5:30,Narasapur IN Asia/Kolkata,1
+Nagaraju Pappu,09-09-1968 01:33:00,83,24,E,18,7,N,GMT+5:30,Vizianagaram IN Asia/Kolkata,1
+Osho,11-12-1931 17:51:20,79,57,E,23,10,N,GMT+5:30,
+Nagarjuna,29-08-1959 00:27:00,80,17,E,13,5,N,GMT+5:30,,1
+Veturi Prabhakara Sastry,07-02-1888 14:15:00,81,8,E,16,11,N,GMT+5:30,Machilipatnam IN Asia/Kolkata,1
+Sweety Venkat Garu,10-09-2001 15:25:00,79,59,E,14,26,N,GMT+5:30,Nellore IN Asia/Kolkata,1
+Rana Daggubati,14-12-1984 10:10:00,80,16,E,13,5,N,GMT+5:30,Chennai IN Asia/Kolkata,1
+Michael Jackson,29-08-1958 12:09:00,87,21,W,41,36,N,GMT-5:00,1,1
+Sanjay MV Tapovana,18-03-1999 19:00:00,77,23,E,13,5,N,GMT+5:30,Nelamangala IN Asia/Kolkata,1
+Balu,23-10-1978 19:33:00,78,16,E,12,57,N,GMT+5:30,KGF,1
+Sekhar Koduru,24-09-1983 00:05:00,80,55,E,16,7,N,GMT+5:30,Challapalle IN Asia/Kolkata,1
+Koduru Murali,09-11-1958 09:30:00,81,8,E,16,10,N,GMT+5:30,Challapalli
+Pramod Banyan,25-03-1975 23:30:00,75,8,E,15,20,N,GMT+5:30,Hubli IN Asia/Kolkata,1
+HPB,12-08-1831 01:57:00,34,59,E,48,27,N,GMT+2:00,Ekaterinoslav,1
+Sahitya,05-03-1991 15:58:00,79,59,E,14,27,N,GMT+5:30,Sahitya,1
+Jiddu Krishnamurthy,12-05-1895 00:30:00,78,30,E,13,33,N,GMT+5:30,
+CVV,04-08-1868 10:20:00,79,23,E,10,58,N,GMT+5:30,Kumbakonam,1
+Narendra Modi,17-09-1950 10:39:00,72,38,E,23,47,N,GMT+5:30,Vadnagar,1
+Pavan Naidu Daughter Hansika,17-12-2006 07:21:00,82,7,E,16,39,N,GMT+5:30,Mummidivaram,1
+Donald Trump,14-06-1946 10:54:00,73,50,W,40,40,N,GMT-4:00,Queens ny America/New_York,1
+Saathwik,08-11-2000 12:47:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Chakra Tutika,20-06-1975 19:26:00,81,6,E,16,42,N,GMT+5:30,Eluru
+John Shrader,18-11-1982 03:03:00,85,45,W,38,15,N,GMT-5:00,Louiseville,1
+Anant Bhuvana Auntie,27-05-1973 13:10:00,83,13,E,17,41,N,GMT+5:30,Vizag
+G Karthikeyan Lalita auntie,17-07-1998 13:05:00,78,30,E,13,33,N,GMT+5:30,Madanapalle IN Asia/Kolkata,1
+Lata Mangeshkar,28-09-1929 22:30:00,75,50,E,22,43,N,GMT+5:30,Indore,1
+Jordan Ross Belfort,18-11-1962 11:40:00,74,0,W,40,42,N,GMT-5:00,New York City ny America/New_York,1
+Konakanchi Mother,08-01-1949 19:00:00,83,53,E,18,17,N,GMT+5:30,Srikakulam IN Asia/Kolkata,1
+Giri Kameswari,10-09-1969 13:07:00,81,6,E,16,42,N,GMT+5:30,Eluru,1
+Jagan,21-12-1972 17:50:00,78,13,E,14,25,N,GMT+5:30,Pulivendla IN Asia/Kolkata,1
+Neelima Koduru,10-05-1985 15:20:00,80,55,E,16,7,N,GMT+5:30,Challapalle IN Asia/Kolkata,1
+Brahmanandam,01-02-1956 21:25:00,81,53,E,17,6,N,GMT+5:30,Sattenapalli,1
+Ramana,15-07-1978 14:05:00,78,28,E,17,13,N,GMT+5:30,Hyderabad,1
+Yajneswar,23-11-2007 13:35:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Suryakumari Vadavalli2,02-08-1954 01:37:00,82,13,E,16,56,N,GMT+5:30,
+Chakree Daughter,30-06-2007 19:14:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Satyendra Vadavalli,14-01-1979 10:08:00,81,17,E,16,21,N,GMT+5:30,Munjuluru
+Padmarekha,14-11-1980 09:50:00,77,35,E,12,58,N,GMT+5:30,Bengaluru IN Asia/Kolkata,1
+Shivangini,08-05-1984 07:50:00,77,14,E,28,36,N,GMT+5:30,Delhi IN Asia/Kolkata,1
+Brad Pitt,18-12-1963 06:31:00,96,55,W,35,19,N,GMT-6:00,Shawnee ok America/Chicago,1
+Pratyusha Kumari Ramanakka,29-12-1990 07:10:00,80,38,E,16,30,N,GMT+5:30,Vijayawada IN Asia/Kolkata,1
+YSR,08-07-1949 19:01:00,78,24,E,14,50,N,GMT+5:30,
+Krishna Konakanchi,06-09-1974 06:10:00,83,1,E,17,41,N,GMT+5:30,
+Chiranjeevi,22-08-1955 10:10:00,81,45,E,16,26,N,GMT+5:30,
+Bill Gates,28-10-1955 22:00:00,122,19,W,47,36,N,GMT-8:00,Seattle wa America/Los_Angeles,1
+Albert Einstein,14-03-1879 11:50:00,9,59,E,48,23,N,GMT+1:00,Ulm DE Europe/Berlin,1
+Purushottam Yanamandra,24-08-1968 06:20:00,81,42,E,16,45,N,GMT+5:30,Tanuku,1
+Sanath's Daughter,19-01-2012 08:30:00,78,28,E,17,22,N,GMT+5:30,Hyderabad
+Sailaja akka,31-07-1969 22:53:00,79,59,E,14,27,N,GMT+5:30,Nellore,1
+Murali Vadavalli,19-12-1976 05:17:00,81,53,E,17,6,N,GMT+5:30,Narendrapuram,1
+Sanjeev,18-07-1973 10:10:00,84,22,E,26,13,N,GMT+5:30,
+U.G.Krishnamurthy,09-07-1918 06:10:00,81,8,E,16,10,N,GMT+5:30,Masulipatnam
+Kamala Harris,20-10-1964 21:28:00,122,16,W,37,48,N,GMT-7:00,Oakland ca America/Los_Angeles,1
+Murthy,27-05-1967 06:40:00,79,59,E,14,27,N,GMT+5:30,Nellore,1
+Ramakrishna Vadavalli,22-09-1972 16:17:00,82,13,E,16,56,N,GMT+5:30,Kakinada
+Yogananda,05-01-1893 20:08:00,75,40,E,29,26,N,GMT+5:30,Gorakhpur IN Asia/Kolkata,1
+Giri,17-12-1966 02:15:00,82,13,E,16,56,N,GMT+5:30,Kakinada
+Chakrapanirao Vadavalli,27-04-1948 02:30:00,81,8,E,16,11,N,GMT+5:30,Machilipatnam IN Asia/Kolkata,1
+jayalalithaa,24-02-1948 08:54:00,76,40,E,12,39,N,GMT+5:30,Melkote,1
+Srinivas Delhi,12-05-1965 10:20:00,80,28,E,15,53,N,GMT+5:30,Bapatla
+Krishna Jayaram Garu,19-01-2007 21:40:00,83,13,W,42,28,N,GMT-5:00,Southfield mi America/Detroit,1
+Balamurali krishna,06-07-1930 18:40:00,82,0,E,16,34,N,GMT+5:30,Amalapuram IN Asia/Kolkata,1
+Sujatha Akella,06-10-1970 10:00:00,81,50,E,16,27,N,GMT+5:30,Pedapatnam
+Srinivas Vilasavilli,29-10-1966 17:15:00,81,57,E,16,36,N,GMT+5:30,Pulletikurru,1
+Rambabu,27-05-1965 16:00:00,82,30,E,17,0,N,GMT+5:30,,1
+Chinna Jiyar,03-11-1956 14:47:00,81,56,E,16,52,N,GMT+5:30,Arthamuru,1
+Rajiv Gandhi,20-08-1944 06:34:00,72,50,E,18,58,N,GMT+5:30,Mumbai,1
+Ravikant Punyamurthula,11-11-1981 17:36:00,82,0,E,16,35,N,GMT+5:30,Amalapuram,1
+Sanath's Son,19-10-2006 18:19:00,78,29,E,17,22,N,GMT+5:30,Hyderabad,1
+Sridevi Actress,13-08-1963 05:30:00,80,16,E,13,5,N,GMT+5:30,Chennai,1
+Savitri,06-12-1936 12:30:00,80,27,E,16,18,N,GMT+5:30,Chirravuru,1
+Samavarti Pramod,27-01-2015 08:03:00,77,35,E,12,59,N,GMT+5:30,Bangalore,1
+Illayaraja,02-06-1943 11:22:00,77,16,E,9,52,N,GMT+5:30,Pannaipuram,1
+Malathi-Son-Surya,06-06-2012 08:46:00,122,12,W,47,41,N,GMT-7:00,Kirkland WA USA
+Sravanthi Joshi Garu,06-02-1992 05:05:00,77,36,E,14,41,N,GMT+5:30,Anantapur,1
+Pervez Musharraf,11-08-1943 03:30:00,77,13,E,28,39,N,GMT+6:30,Delhi IN Asia/Kolkata,1
+Krishna Manasa Perepi,23-10-2011 08:15:00,80,16,E,13,5,N,GMT+5:30,Chennai,10
+RGV,07-04-1962 14:15:00,80,38,E,16,30,N,GMT+5:30,Vijayawada IN Asia/Kolkata,1
+Venkatalakshmi,22-02-1977 16:15:00,81,59,E,16,33,N,GMT+5:30,
+Karthik Tapovana Astro,18-12-1994 06:44:00,76,5,E,13,0,N,GMT+5:30,Hassan IN Asia/Kolkata,1
+Amitabh Bachan,11-10-1942 16:00:00,81,51,E,25,27,N,GMT+5:30,Allahabad
+Nayanthara,18-11-1984 04:30:00,77,35,E,12,58,N,GMT+5:30,Bengaluru IN Asia/Kolkata,1
+Kameswarammagaru,19-12-1951 05:33:00,82,30,E,16,30,N,GMT+5:30,
+Preethi,09-11-1990 12:50:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Sesharatna Kumari,15-02-1971 05:40:00,81,48,E,17,0,N,GMT+5:30,Rajahmundry,1
+Sandeep Punyamurthula,05-10-1985 11:41:00,82,0,E,16,35,N,GMT+5:30,Amalapuram,1
+Muralidhar's son,04-01-2010 23:51:00,78,29,E,17,22,N,GMT+5:30,
+Rajnikant,12-12-1950 08:06:00,77,35,E,12,58,N,GMT+5:30,Bengaluru IN Asia/Kolkata,1
+kruthi,12-02-2012 20:33:00,78,28,E,17,22,N,GMT+5:30,Hyderabad
+Anirudh Pindiprolu,08-06-2001 08:13:00,81,47,E,16,59,N,GMT+5:30,Rajahmundry IN Asia/Kolkata,1
+Quentin Tarantino,27-03-1963 00:21:00,83,55,W,35,58,N,GMT-5:00,Knoxville Tennessee,1
+Puri Jagannadh,28-09-1966 21:00:00,82,16,E,17,7,N,GMT+5:30,
+Malathi-Bhuvana-Aunty,12-12-1969 10:42:00,78,28,E,17,22,N,GMT+5:30,Hyderabad
+A R Rahman,06-01-1966 05:20:00,80,16,E,13,5,N,GMT+5:30,Chennai
+Adarsha,18-10-1991 18:47:10,81,46,E,17,0,N,GMT+5:30,Rajahmundry IN Asia/Kolkata,1
+Indira gandhi,19-11-1917 23:11:00,81,51,E,25,27,N,GMT+5:30,Allahabad,1
+Ramesh Ganti - Sundar,08-04-1996 08:08:00,78,28,E,17,22,N,GMT+5:30,Hyderabad
+Diana,01-07-1961 18:45:00,0,30,E,52,50,N,GMT+0:00,Sandringham England
+Avinash Kameswaramma garu,21-09-1991 05:30:00,81,47,E,16,59,N,GMT+5:30,,1
+Sanjay Gandhi,14-12-1946 09:27:00,72,50,E,18,58,N,GMT+5:30,
+Deetya Pramod,26-06-2008 16:09:00,77,35,E,12,59,N,GMT+5:30,Bangalore,1
+Shreya Maini,04-08-1997 18:50:00,77,27,W,37,33,N,GMT-4:00,Richmond va America/New_York,1
+Mantha Suryanarayana,05-12-1975 08:02:00,82,13,E,16,30,N,GMT+5:30,Amalapuram,1
+Pramod Banyan Arati,01-11-1980 13:00:00,76,50,E,17,20,N,GMT+5:30,Gulbarga IN Asia/Kolkata,1
+Shahrukh Khan,02-11-1965 06:25:00,77,14,E,28,36,N,GMT+5:30,Delhi,1
+Margaret Thatcher,13-10-1925 14:53:20,0,39,W,52,55,N,GMT+5:30,
+Kasturi Rangan,12-06-1981 00:05:00,78,28,E,17,21,N,GMT+5:30,Hyderabad,1
+Muralidhar Nittala,15-11-1976 17:41:00,76,36,E,15,30,N,GMT+5:30,,1
+Pavan Naidu,03-10-1975 09:14:00,82,7,E,16,39,N,GMT+5:30,Mummidivaram,1
+1962,05-02-1962 07:00:00,77,13,E,28,38,N,GMT+5:30,New Delhi IN Asia/Kolkata,1
+Prasad garu tapovana,18-12-1964 04:40:00,83,13,E,17,41,N,GMT+5:30,Visakhapatnam
+UVNK Raju,23-11-1975 10:05:00,83,26,E,18,21,N,GMT+5:30,Parvathipuram,1
+Sri Ramakrishna,17-02-1836 04:55:00,87,39,E,22,54,N,GMT+5:30,Kamrpakur,1
+Krishna Kumari garu,22-07-1951 07:00:00,80,26,E,16,18,N,GMT+5:30,Guntur,1
+Ravi Tapovana,04-03-1977 23:55:00,77,12,E,13,40,N,GMT+5:30,Madhugiri,1
+Queen Elizabeth II,21-04-1926 01:40:00,0,10,W,51,30,N,GMT+0:00,London
+Nanaji Dronamraju,11-12-1973 19:43:00,82,37,E,17,35,N,GMT+5:30,Narsipatnam,1
+Viswanatha,10-09-1895 18:10:00,81,8,E,16,15,N,GMT+5:30,Pedana IN Asia/Kolkata,1
+Prasant Tapovana,05-06-1977 02:15:00,75,55,E,14,28,N,GMT+5:30,Davangere IN Asia/Kolkata,1
+Nagesh Anupindi,23-09-1966 17:15:00,83,18,E,17,42,N,GMT+5:30,
+Lavanya Sanath,28-05-1977 14:05:00,78,28,E,17,13,N,GMT+5:30,Hyderabad
+Master EK,11-08-1926 17:30:00,80,28,E,15,54,N,GMT+5:30,Bapatla
+Janu mama,24-03-1960 13:00:00,82,1,E,16,51,N,GMT+5:30,
+Murthy - Ganesh,02-01-1999 01:28:00,80,38,E,16,31,N,GMT+5:30,Vijayawada,1
+Saharsh,19-03-2019 16:15:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Radhakrishna Murthy Perepi,19-12-1942 23:15:00,79,41,E,14,42,N,GMT+5:30,Anumasamudrampeta,1
+Kodanadu Soujanya,12-04-1999 11:15:00,83,53,E,18,17,N,GMT+5:30,Srikakulam IN Asia/Kolkata,1
+Jahnavi,26-11-1983 13:38:00,81,43,E,17,1,N,GMT+5:30,Kovvur
+Raju Pindiprolu,30-06-1972 01:05:00,81,47,E,16,59,N,GMT+5:30,Rajahmundry
+Anant Mocharla,07-01-1992 09:55:00,72,37,E,23,2,N,GMT+5:30,
+Rishi Sunak,12-05-1980 12:00:00,1,24,W,50,54,N,GMT-1:00,Southampton GB Europe/London,1
+James Cameron,16-08-1954 16:30:00,82,25,W,49,25,N,GMT-4:00,Kapuskasing on America/Toronto,1
+Hitler,20-04-1889 18:30:00,13,2,E,48,15,N,GMT+1:00,Braunau am Inn AT Europe/Vienna,1
+Nutan Prasad,12-12-1945 05:45:00,81,12,E,16,33,N,GMT+5:30,Kaikaluru
+Kathleen Taylor,08-02-1944 11:35:00,3,2,W,53,24,N,GMT+1:00,Birkenhead
+Sonia Gandhi,09-12-1946 21:30:00,11,34,E,45,47,N,GMT+5:30,Lusiana, Italy
+Upasana Ramcharan Baby,20-06-2023 06:30:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+krushangi,04-08-2000 07:02:00,85,8,E,25,35,N,GMT+5:30,Patna IN Asia/Kolkata,1
+Aparna,01-03-1981 23:36:00,82,13,E,16,56,N,GMT+5:30,,1
+Hari,27-01-1977 23:30:00,78,29,E,17,22,N,GMT+5:30,
+Pawan Kalyan,02-09-1968 20:38:00,80,28,E,15,54,N,GMT+5:30,Bapatla IN Asia/Kolkata,1
+Shanti Kambhampati,13-09-1974 10:15:00,78,29,E,17,22,N,GMT+5:30,Hyderabad,1
+Kiran Yanamandra,27-02-2007 08:20:00,82,15,E,16,58,N,GMT+5:30,Kakinada,1
+HEINRICH LORENZEN,15-12-1961 18:52:00,10,12,E,56,9,N,GMT+1:00,Arhus DK Europe/Copenhagen,1
+Malathi-Husband-Bhuvana-Aunty,05-08-1966 14:30:00,77,59,E,16,44,N,GMT+5:30,Mahbubnagar IN Asia/Kolkata,1
+Mohanrao garu,09-08-1954 23:22:00,82,16,E,16,35,N,GMT+5:30,
+Sweta Balu,31-05-1982 22:56:00,80,16,E,13,5,N,GMT+5:30,Chennai,1
+NTR,28-05-1923 16:43:00,80,59,E,16,27,N,GMT+5:30,,1
+Mocherla Seshamma,19-01-1932 04:23:20,82,16,E,16,35,N,GMT+5:30,
+Raga,07-05-2007 17:55:00,78,29,E,17,22,N,GMT+5:30,
+Murthy - Guhan,02-01-1999 01:35:00,80,38,E,16,31,N,GMT+5:30,Vijayawada,1
+Bhargavi Balu office,11-11-1991 20:00:00,77,17,E,14,6,N,GMT+5:30,Pavagada,1
+Ravi Ideabrahma,20-05-1975 12:05:00,77,0,E,15,36,N,GMT+5:30,Siriguppa,1
+Ramana Rao,03-12-1957 05:00:00,82,30,E,16,30,N,GMT+5:30,100 Mile House bc America/Vancouver,1
+Bhargavi Husband Balu office,19-06-1989 15:25:00,77,17,E,14,6,N,GMT+5:30,Pavagada,1
+Satyanarayana Sarma,13-07-1963 20:21:00,80,10,E,16,5,N,GMT+5:30,Chilakaluripet
+Lakshmi Kuntamukkula,17-08-1958 00:30:00,81,48,E,17,0,N,GMT+5:30,Rajahmundry,1
+Rambha,05-06-1976 11:44:00,80,38,E,16,30,N,GMT+5:30,Vijayawada IN Asia/Kolkata,1
+1524,01-03-1524 07:00:00,77,13,E,28,38,N,GMT+5:30,New Delhi IN Asia/Kolkata,1
+Chandrasekharendra,20-05-1894 13:16:00,79,32,E,11,57,N,GMT+5:30,,1
+Suryakumari Vadavalli,02-08-1954 01:37:00,82,13,E,16,56,N,GMT+5:30,
+Gowri Muralidhar,12-08-1980 02:54:00,80,16,E,13,5,N,GMT+5:30,Narendrapuram
+Mrudula,12-10-2006 17:46:00,77,34,E,12,58,N,GMT+5:30,Bangalore,1
+Steven Pinker,18-09-1954 15:10:00,73,33,W,45,30,N,GMT+5:30,Montrel canada,1
+Kadambari Venkata Ramana,01-12-1928 00:05:00,82,5,E,16,51,N,GMT+5:30,Ramachandrapuram,1
+SPB,04-06-1946 12:15:00,79,59,E,14,27,N,GMT+5:30,Nellore,1
+KPK,07-11-1945 07:33:00,82,38,E,16,31,N,GMT+5:30,1,1
+Rajusha Shreya,02-11-1965 06:40:00,77,13,E,28,38,N,GMT+5:30,New Delhi IN Asia/Kolkata,1
+Y Satyamitra,12-12-1982 05:10:00,81,31,E,16,32,N,GMT+5:30,Bhimavaram IN Asia/Kolkata,1
+Kishore-Sanath,07-12-1971 21:43:00,81,6,E,16,42,N,GMT+5:30,Eluru
+Krishna Ghattamaneni,31-05-1943 11:30:00,80,39,E,16,14,N,GMT+5:30,Tenali,1
+Kadambari Venkataratnam,25-10-1925 12:40:00,81,50,E,16,27,N,GMT+5:30,Kadali,1
+Lakshmi Ravi Tapovana,18-05-1991 08:00:00,81,48,E,17,0,N,GMT+5:30,Rajahmundry IN Asia/Kolkata,1
+Ramesh Ganti GSN Murthy,05-11-1974 13:10:00,83,18,E,17,42,N,GMT+5:30,Vishakhapatnam
+Naayana,17-11-1878 14:11:00,83,38,E,18,18,N,GMT+5:30,Gajapathinagaram,1
+Akshar,20-10-1997 05:07:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Ludger Philips,08-12-1953 11:00:00,7,53,E,51,45,N,GMT+1:00,Ahlen DE Europe/Berlin,1
+Puja Murthy,07-10-1997 16:07:00,80,38,E,16,31,N,GMT+5:30,Vijayawada,1
+Client,18-12-1994 06:44:00,76,5,E,13,0,N,GMT+5:30,Hassan IN Asia/Kolkata,1
+MK,07-07-1952 08:30:00,80,55,E,16,1,N,GMT+5:30,Avanigadda IN Asia/Kolkata,1
+Lakshmi Ravi Tapovana Groom,07-01-1991 16:20:00,76,53,E,12,31,N,GMT+5:30,Mandya IN Asia/Kolkata,1
+Brahmaji Vilasavilli Wife,26-10-1995 10:10:00,81,50,E,16,28,N,GMT+5:30,Razole IN Asia/Kolkata,1
+Brahmaji Vilasavilli,03-02-1992 18:51:00,82,0,E,16,34,N,GMT+5:30,Amalapuram IN Asia/Kolkata,1
+Nayana,17-11-1878 14:06:23,83,38,E,18,18,N,GMT+5:30,Gajapathinagaram,1
+Y Chandana Datta,17-01-2016 22:16:00,83,12,E,17,40,N,GMT+5:30,Visakhapatnam IN Asia/Kolkata,1
+Balakrishna,10-06-1960 05:30:00,80,17,E,13,5,N,GMT+5:30,
+Sai Sudha Perepi,23-11-2007 05:45:00,80,16,E,13,5,N,GMT+5:30,Chennai,1
+Nishant,12-06-1987 20:42:00,80,16,E,13,5,N,GMT+5:30,Chennai,1
+Godse,19-05-1910 08:29:00,74,35,E,18,9,N,GMT+5:30,BaramatiPrince Charles,14-11-1948 21:14:00,0,10,W,51,30,N,GMT+0:00,London
+Subbalakshi Yanamandra garu,24-08-1973 06:45:00,82,12,E,16,43,N,GMT+5:30,Yanam IN Asia/Kolkata,1
+Arun Govil,12-01-1952 07:17:00,77,42,E,28,58,N,GMT+5:30,Meerut IN Asia/Kolkata,1
+Deepika,26-07-1986 01:19:00,81,6,E,16,42,N,GMT+5:30,Eluru
+Salman Khan,27-12-1965 14:30:00,75,51,E,22,43,N,GMT+5:30,Indore,1
+Neeharika,21-08-1984 10:11:00,81,6,E,16,42,N,GMT+5:30,,1
+Steve Jobs,24-02-1955 12:00:00,122,25,W,37,47,N,GMT-8:00,San Francisco
+Sahitya's baby,10-04-2023 06:48:40,80,16,E,13,5,N,GMT+5:30,Chennai IN Asia/Kolkata,1
+ANR,20-09-1924 08:23:00,80,59,E,16,30,N,GMT+5:30,Ramapuram,1
+Krishnaprakash,08-02-1972 17:30:00,82,30,E,16,30,N,GMT+5:30,
+Bal Thackeray,23-01-1926 08:00:00,73,51,E,18,31,N,GMT+5:30,Pune IN Asia/Kolkata,1
+Ramalinga Raju,16-09-1954 11:19:00,81,32,E,16,32,N,GMT+5:30,
+Nikhita Pramod,24-12-1985 08:00:00,77,34,E,12,58,N,GMT+5:30,Bangalore,1
+Praneeth,20-04-1989 14:04:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Gayathri Tiruvuri,21-11-1995 19:05:00,78,26,E,17,22,N,GMT+5:30,Hyderabad,1
+Mozart,27-01-1756 20:08:00,13,2,E,47,47,N,GMT+1:00,Salzburg AT Europe/Vienna,1
+Roman Polanski,18-08-1933 10:20:00,2,20,E,48,51,N,GMT+1:00,Paris FR Europe/Paris,1
+Vijay Mohan,23-03-1991 18:15:00,78,27,E,17,23,N,GMT+5:30,Hyderabad IN Asia/Kolkata,1
+Astro Study - 29,18-11-2008 09:52:00,55,30,E,25,25,N,GMT+4:00,Ajman UAE
+Kameshwari Ganti GSN Murthy,10-06-1983 00:05:00,82,1,E,16,35,N,GMT+5:30,Vishakhapatnam
+Sreeram deepu,24-06-1983 03:50:00,82,13,E,16,56,N,GMT+5:30,Kakinada
+Steven Speilberg,18-12-1946 18:16:00,84,27,W,39,9,N,GMT-5:00,
+Sachin Tendulkar,24-04-1973 13:00:00,72,52,E,19,4,N,GMT+5:30,Mumbai IN Asia/Kolkata,1
+E U Bhaskara Murthy,02-02-1958 04:40:00,81,15,E,16,17,N,GMT+5:30,Kanuru IN Asia/Kolkata,1
+Lakshmi Parvathi,14-09-1955 15:30:00,79,44,E,16,3,N,GMT+5:30,Vinukonda IN Asia/Kolkata,1
+Osama Bin Laden,10-03-1957 10:36:00,46,43,E,24,38,N,GMT+3:00,Riyadh
+Aurangazeb,24-10-1618 09:30:00,74,15,E,22,50,N,GMT+5:30,Dohad,1
+Relangi,09-08-1910 09:55:00,81,46,E,17,0,N,GMT+5:30,Rajahmundry IN Asia/Kolkata,1
+Aishwarya Rai,01-11-1973 11:20:00,74,53,E,12,52,N,GMT+5:30,Mangalore IN Asia/Kolkata,1
+Kamal Hassan,07-11-1954 17:30:00,80,16,E,13,5,N,GMT+5:30,Chennai IN Asia/Kolkata,1
+Raju Bhupati,02-04-1975 20:10:00,78,29,E,17,23,N,GMT+5:30,
+Beckham,02-05-1975 09:47:00,0,0,W,51,29,N,GMT+5:30,
+Priyanka Tapovana,26-02-1990 16:30:00,77,34,E,12,58,N,GMT+5:30,Bangalore
+Master MN,25-08-1883 09:30:00,79,54,E,13,54,N,GMT+5:30,Naidupeta,1
+Bhavana Kakubal,23-11-1997 20:40:00,78,29,E,15,28,N,GMT+5:30,Nandyal IN Asia/Kolkata,1
+Viswagupta,06-05-1972 03:53:00,83,24,E,18,17,N,GMT+5:30,Rajam
+Sanath,13-07-1975 12:55:00,78,29,E,17,22,N,GMT+5:30,Hyderabad
+Elon Musk,28-06-1971 20:43:00,28,11,E,25,44,S,GMT+2:00,Pretoria ZA Africa/Johannesburg,1
+Karl Marx,05-05-1818 02:34:00,6,38,E,49,45,N,GMT+1:00,Trier DE Europe/Berlin,1
