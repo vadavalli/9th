@@ -15,7 +15,8 @@ It has been very useful in my study of Astrology, as I could not find any other 
 
 It is somewhat ametuerish at the moment, but serves the purpose. It is intended to be a prototype and I hope to develop a professional version in future.
 
-You can download it from here: [SquareChart-Nov_5_2022.zip](downloads/SquareChart-Nov_5_2022.zip). 
+You can download it from here (contains executable jar file, convenient for Mac users): [SquareChart-Nov_5_2022.zip](downloads/SquareChart-Nov_5_2022.zip). 
+You can download exe file from here (convenient for Windows users): [SquareChart-Nov_5_2022.exe](downloads/SquareChart-Nov_5_2022.exe). 
 Unzip the file into any folder. Double click on SquareChart.exe file. It should launch the horoscope software.
 
 Please contact me [9thhouse.org@gmail.com](mailto: 9thhouse.org@gmail.com) if you face any issues or have suggestions for adding more features.
